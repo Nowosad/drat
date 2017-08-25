@@ -6,7 +6,7 @@ MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
 Package: spDataLarge
-Version: 0.2.1.9000
+Version: 0.2.3.0
 License: CC0
-MD5sum: 60309d27e87088893b0065c531327fce
+MD5sum: 0c9cbe78125cfec6cce6d1aeee5a8c2e
 NeedsCompilation: no

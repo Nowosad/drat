@@ -1,6 +1,6 @@
 Package: spDataLarge
-Version: 0.2.5.1
+Version: 0.2.5.2
 Depends: R (>= 3.3.0)
 License: CC0
-MD5sum: a97d9f5bad9ba92ac66fa6bb8a450adf
+MD5sum: f852ef1703b96769baf92ad1c861ce3a
 NeedsCompilation: no

@@ -1,6 +1,7 @@
 Package: spDataLarge
-Version: 0.3.1
+Version: 0.4.0
 Depends: R (>= 3.3.0)
+Imports: raster
 License: CC0
-MD5sum: f4d3195d4faa19265ef4eaaed69deadd
+MD5sum: 448286c33b5e18f4ce125bf6e5a7d6a7
 NeedsCompilation: no

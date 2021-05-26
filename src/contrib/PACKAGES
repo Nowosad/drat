@@ -159,3 +159,11 @@ Imports: raster
 License: CC0
 MD5sum: a7ebf1b9f4a86dd4a3593af6dc6f9de0
 NeedsCompilation: no
+
+Package: spDataLarge
+Version: 0.5.2
+Depends: R (>= 3.3.0)
+Imports: raster
+License: CC0
+MD5sum: 50bc7bc0d138f06e75569a368ecb41b3
+NeedsCompilation: no

@@ -2,6 +2,9 @@ on:
   schedule:
     - cron: "0 12 * * WED"
   push:
+    branches:
+      - main
+      - master
     path:
       packages.txt
       .github/workflows/render-pkgs.yaml
@@ -12,6 +15,8 @@ jobs:
   render:
     name: Build packages on Ubuntu
     runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v1
         with:

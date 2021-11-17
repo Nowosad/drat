@@ -3,8 +3,7 @@ on:
     - cron: "0 12 * * WED"
   push:
     branches:
-      - main
-      - master
+      - gh-pages
     path:
       packages.txt
       .github/workflows/render-pkgs.yaml

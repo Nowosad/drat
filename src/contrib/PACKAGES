@@ -189,5 +189,5 @@ Version: 2.0.2
 Depends: R (>= 3.3.0)
 Imports: raster
 License: CC0
-MD5sum: 1abd3b04f0e5762b0a277438f17c6f8a
+MD5sum: 5e5140226236a2a06d4ae01a163fbc3f
 NeedsCompilation: no

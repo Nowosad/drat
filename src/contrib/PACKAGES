@@ -246,3 +246,10 @@ Depends: R (>= 3.3.0)
 License: CC0
 MD5sum: 6b81c5809fb371399b79d18f79233e3b
 NeedsCompilation: no
+
+Package: spDataLarge
+Version: 2.1.2
+Depends: R (>= 3.3.0)
+License: CC0
+MD5sum: 3725dc7a77a53625422401b21b82ecde
+NeedsCompilation: no
